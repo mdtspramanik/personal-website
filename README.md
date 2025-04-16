@@ -1,6 +1,10 @@
-# personal-website
+# Personal Website
 
 A personal website developed with HTML, CSS, and Bootstrap.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## How the Website Looks
 
