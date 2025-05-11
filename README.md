@@ -6,7 +6,7 @@ A personal website developed with HTML, CSS, and Bootstrap.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## How the Website Looks
+## How the Project Looks
 
 ![home-screenshot](https://github.com/user-attachments/assets/55ba4d75-7077-4d5b-ba80-80c8c197bea7)
 
